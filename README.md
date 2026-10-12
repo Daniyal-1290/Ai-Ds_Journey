@@ -5,8 +5,8 @@ Tracking my progress while learning AI and Datascience, I'm sharing my code and 
 ## Progress
 | Topic                           | Status       |
 |---------------------------------|--------------|
-| Python                          | In progress |
-| Numpy, Pandas, Visualization    | Not Started |
+| Python                          | COMPLETED |
+| Numpy, Pandas, Visualization    | In Progress |
 | Statistics and Maths            | Not Started |
 | Machine Learning                | Not Started |
 | Deep Leaning                    | Not Started |
